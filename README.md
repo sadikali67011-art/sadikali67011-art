@@ -1,4 +1,3 @@
-<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/7a9c3ffc-c7c5-4059-aeea-83164ed7d5a4" />## Hi there 👋
 
 <!--
 **sadikali67011-art/sadikali67011-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
